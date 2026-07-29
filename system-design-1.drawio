@@ -29,6 +29,24 @@
         <mxCell id="gH-H7HEXFDslSkUTCtg3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lookup&lt;div&gt;www.google.com&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="170" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="gH-H7HEXFDslSkUTCtg3-8" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" value="" vertex="1">
+          <mxGeometry height="92.5" width="76.5" x="605.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gH-H7HEXFDslSkUTCtg3-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Root Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="92" x="597.75" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gH-H7HEXFDslSkUTCtg3-10" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" value="" vertex="1">
+          <mxGeometry height="92.5" width="76.5" x="605.5" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gH-H7HEXFDslSkUTCtg3-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;TLD Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="92" x="597.75" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gH-H7HEXFDslSkUTCtg3-12" parent="1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" value="" vertex="1">
+          <mxGeometry height="92.5" width="76.5" x="613.25" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="gH-H7HEXFDslSkUTCtg3-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Authoritative Name Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="92" x="605.5" y="500" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
