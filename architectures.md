@@ -39,8 +39,6 @@ A single, unified codebase and deployment unit containing all application functi
 
 1. Lets start with monolythic (logical grouping)
 
-
-
 # Managing Complexities in Architecture
 
 It is easier to over engineer. These principles helps us build smarter systems.
@@ -51,12 +49,14 @@ It is easier to over engineer. These principles helps us build smarter systems.
 2. KISS
 3. YAGNI
 
-
 ### DRY - Don't Repeat Yourself
 1. Every piece of knowledge must have
-   1.1 a single unambiguous
-   1.2 authoritative representation within a system
-2. test
+   - a single unambiguous
+   - authoritative representation within a system
+2. Avoid duplicate code, configurations or design elements
+3. Promotes maintainability
+4. Minimizes Complexity
+5. Reduces errors
 
 ### KISS - Keep it simple stupid
 
@@ -70,6 +70,12 @@ It is easier to over engineer. These principles helps us build smarter systems.
 2. From the Extreme Programming methodology - the simplest thing that could possibly work
 3. Focus on the current concrete requirements
 4. Avoid wasted effort on features that may never be used
+
+#### Example - For developing a e-commerce application
+
+KISS - We aim for simple design, which will meet the e-commerce current needs
+YAGNI - We won't build features for hypothetical feature scenarios
+DRY - We will look for opportunities to avoid redundancy in the e-commerce modules and components
 
 
 
