@@ -38,6 +38,8 @@ A single, unified codebase and deployment unit containing all application functi
 
 
 
+
+
 ## Tips
 
 1. Lets start with monolythic (logical grouping)
