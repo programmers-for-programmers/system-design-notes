@@ -1,3 +1,16 @@
+# Architecture Modeling
+
+Modeling is the process of representing the system's design in structured, visual and simplified way.
+
+It
+1. clarifies ideas
+2. validates assumptions
+3. compares options
+4. explains decisions
+5. improves communication
+
+
+
 
 # Monolithic Architecture
 
