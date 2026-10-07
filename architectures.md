@@ -1,3 +1,4 @@
+
 # Monolithic Architecture
 
 ## What is Monolithic Architecture?
@@ -34,13 +35,41 @@ A single, unified codebase and deployment unit containing all application functi
 5. Scalability limitations - Cannot scale componenets independenly
 6. Reliability issues - bug in one component can bring down the entire system
 
-
-
-
-
-
-
 ## Tips
 
 1. Lets start with monolythic (logical grouping)
-2. 
+
+
+
+# Managing Complexities in Architecture
+
+It is easier to over engineer. These principles helps us build smarter systems.
+
+## Design Principles
+
+1. DRY
+2. KISS
+3. YAGNI
+
+
+### DRY - Don't Repeat Yourself
+1. Every piece of knowledge must have
+   1.1 a single unambiguous
+   1.2 authoritative representation within a system
+2. test
+
+### KISS - Keep it simple stupid
+
+1. Simplicity should be the key goal
+2. Avoid unnecessary complexities in design and implementation
+3. Simple systems are easlier to understand and maintain
+
+### YAGNI - You Ain't Gonna Need It
+
+1. Don't implement funcationality based on future speculations
+2. From the Extreme Programming methodology - the simplest thing that could possibly work
+3. Focus on the current concrete requirements
+4. Avoid wasted effort on features that may never be used
+
+
+
