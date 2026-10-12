@@ -12,6 +12,14 @@
 
 #### <ins>Architecting conversations, not just systems</ins>
 
+> 5 Components of an AI interaction system
+> | Component | Role in the AI interaction system |
+> | -------- | -------- |
+> | Prompt    |  Entry point: the structured request that initiates reasoning |
+> | Context    | Working memory: the domain knowledge, rules, and history in scope |
+> | Rules        |  Guardrails: constraints that narrow the model's probability space  |
+> | Feedback loop  | Refinement mechanism: human validation and correction reintroduced  |
+> | Validation      |  Human judgment: the architect's responsibility for semantic correctness  |
 
 #### <ins>Designing information flows for AI</ins>
 
